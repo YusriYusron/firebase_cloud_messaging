@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "791459296752",
+    "firebase_url": "https://cloudmessaging-78312.firebaseio.com",
+    "project_id": "cloudmessaging-78312",
+    "storage_bucket": "cloudmessaging-78312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791459296752:android:c454e770cc1c36dbe15935",
+        "android_client_info": {
+          "package_name": "org.d3if1025.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791459296752-vl09p3up64s9n4o3tv47bdne9hoj3kna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZ0btuCzVbaw-o9E9DT-OOiZyFQHzWbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791459296752-vl09p3up64s9n4o3tv47bdne9hoj3kna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
